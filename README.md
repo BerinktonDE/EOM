@@ -10,8 +10,5 @@ Changelog: v1.0.19<br>
 *Ore Spawner added for EOM Ingots<br>
 *Miner Crusher is now damageabel
 <br><br>
-Changelog: v1.0.18<br>
-*Added Ore Spawner
-<br><br>
 Changelog: v1.0.17<br>
 *Created EOM
