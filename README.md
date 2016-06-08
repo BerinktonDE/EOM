@@ -1,7 +1,7 @@
 # EOM
 Extra Ordinary Materials Mod by Berinkton.de Team
 
-For mor information click on the [Wiki Tab](https://github.com/BerinktonDE/EOM/wiki).
+For mor information click on the [Wiki Tab](https://github.com/BerinktonDE/EOM/wiki).<br><br>
 Changelog: v1.0.20<br>
 *Added a few Recipes for The TE Pulverizer and Induction Smelter<br>
 *Added Gold Dust<br>
