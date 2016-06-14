@@ -7,6 +7,9 @@ Changelog: v1.0.20<br>
 *Added Gold Dust<br>
 -Removed some unused Textures and code segments
 <br><br>
+Changelog: v1.0.21<br>
+*Added missing dust recipes( BeroniumIngot -> BeroniumDust, etc)
+<br><br>
 Changelog: v1.0.19<br>
 *EOM now means Extra Ordinary Materials<br>
 *Added Thermal Expansion Pulverizer Recipes<br>
